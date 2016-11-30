@@ -1,5 +1,5 @@
 <?php
-    include('partials/head.php'); 
+    include('partials/head.php');
 
     include('partials/topbar.php');
 
@@ -10,9 +10,6 @@
 
         <div class="small-16 columns">
           <h1 class="text-center title">Contact Us</h1>
-            <div class="alert-box warning radius">
-                <p>We understand the occasional missed appointment, but with such high demand for appointments there will be a $25 cancellation charge applied to the accounts of customers that cancel without giving at minimum a 48 hour notice.</p>
-            </div>
           <p>If you have a question about scheduling or pricing, please fill out the form below and ask us. We will do our best to reply to you in 24 hours or less. Sometimes, at very busy times of the year, waits may be longer than expected, just please be patient and we will respond as soon as possible.</p>
         </div>
 
@@ -61,8 +58,15 @@
 
           <iframe id="map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="350" height="250" src="https://maps.google.com/maps?hl=en&q=Cincinnati, oh&ie=UTF8&t=roadmap&z=10&iwloc=B&output=embed"></iframe>
         </div>
-
       </div>
+
+        <div class="row">
+            <div class="small-16 columns">
+                <div class="alert-box warning radius">
+                    <p>We understand the occasional missed appointment, but with such high demand for appointments there may be a $25 cancellation charge applied to the accounts of customers that cancel without giving at minimum a 48 hour notice.</p>
+                </div>
+            </div>
+        </div>
     </section>
 
     <section id="contact-callout">
