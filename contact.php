@@ -11,7 +11,7 @@
         <div class="small-16 columns">
           <h1 class="text-center title">Contact Us</h1>
             <div class="alert-box warning radius">
-                <p>We understand the occasional missed appointment, but with such high demand for appointments there will be a charge of $25 cancellation charge applied to the accounts of customers that cancel without giving at minimum a 48 hour notice.</p>
+                <p>We understand the occasional missed appointment, but with such high demand for appointments there will be a $25 cancellation charge applied to the accounts of customers that cancel without giving at minimum a 48 hour notice.</p>
             </div>
           <p>If you have a question about scheduling or pricing, please fill out the form below and ask us. We will do our best to reply to you in 24 hours or less. Sometimes, at very busy times of the year, waits may be longer than expected, just please be patient and we will respond as soon as possible.</p>
         </div>
