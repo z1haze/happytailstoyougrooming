@@ -388,3 +388,13 @@ ul.paw a:hover { color: #f68b6c; }
 
 #loginout p { margin: 0.625rem 0 0; }
 #loginout a.logout { background-image: url("../images/logout-icon.png"); background-repeat: no-repeat; background-position: 0% 50%; padding-left: 1.6875rem; }
+
+#contact .alert-box:first-of-type {
+    margin-bottom: 15px;
+}
+
+#contact .alert-box:first-of-type p {
+    margin-bottom: 0;
+    text-align: left;
+    color: #757575;
+}
