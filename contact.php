@@ -43,8 +43,7 @@
           <h4>Phone &amp; E-mail</h4>
           <div class="vcard">
             <p>
-              +1 513 300 1080 (Karen)<br>
-              +1 513 205 9269 (Sarah)
+              +1 513 300 1080 (Karen)
             </p>
           </div>
           <h4>Business Hours</h4>
