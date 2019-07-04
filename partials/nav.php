@@ -10,9 +10,6 @@
             <a href="about" class="responsive-nav__link">About</a>
           </li>
           <li class="responsive-nav__item">
-            <a href="office" class="responsive-nav__link">Office</a>
-          </li>
-          <li class="responsive-nav__item">
             <a href="services" class="responsive-nav__link">Services</a>
           </li>
           <li class="responsive-nav__item">

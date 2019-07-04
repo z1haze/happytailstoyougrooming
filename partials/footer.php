@@ -13,7 +13,6 @@
             <h3>Quick Contacts</h3>
             <ul class="no-bullet">
               <li>Karen: +1 513 300 1080</li>
-              <li>Sarah: +1 513 205 9269</li>
               <li><a href="contact.php">You can also get in touch via e-mail</a></li>
             </ul>
           </div>

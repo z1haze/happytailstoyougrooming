@@ -2,7 +2,7 @@
   <div  id="top-alert">
     <div class="row">
       <div class="small-16 columns">
-        <p><i class="fa fa-phone"></i> Call Today 513 300 1080 / 513 205 9269</p>
+        <p><i class="fa fa-phone"></i> Call Today 513 300 1080</p>
       </div>
     </div>
   </div>

@@ -31,19 +31,6 @@
             <p>Karen feels strongly that regular, good grooming is important in the promotion of good health for your pets and family; and it helps to keep your furniture more clean and sanitary.</p>
           </div>
         </div>
-        <div class="member">
-          <div class="small-16 medium-3 columns member-pic">
-            <div class="polaroid">
-              <img src="images/sarah.jpg" alt="team member photo"/>
-            </div>
-          </div>
-          <div class="small-16 medium-12 large-13 columns">
-            <h4>Sarah</h4>
-            <p class="member-position">Certified Groomer</p>
-            <p>has been working professionally with Happy Tails To You since 2006, where she has built up amazing rapport with her continuously growing family of clientele.</p>
-            <p>She is experienced in grooming all breeds of dogs with gentle compassion, as well as with a keen eye for detail.</p>
-          </div>
-        </div>
       </div>
     </section>
 
