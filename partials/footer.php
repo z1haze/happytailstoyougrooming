@@ -35,8 +35,7 @@
           </div>
           <div class="small-16 large-3 columns">
             <ul id="social" class="no-bullet">
-              <li class="facebook"><a href="#">Facebook</a></li>
-              <li class="twitter"><a href="#">Twitter</a></li>
+              <li class="facebook"><a href="https://www.facebook.com/groups/1625593107741296/">Facebook</a></li>
             </ul>
           </div>
         </div>
