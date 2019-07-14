@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "npx nodemon server.js",
+    "combile:scss": "node-sass ./scss -o ./public/css --output-style compressed",
+    "autoprefixer": "postcss -m prev -u autoprefixer -r ./public/css/**/*.css",
+    "lint": "eslint --ext .js ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +21,12 @@
   },
   "homepage": "https://github.com/z1haze/happytailstoyougrooming#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.19.1",
+    "postcss": "^7.0.17"
   }
 }

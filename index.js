@@ -1,8 +1,17 @@
 const express = require('express');
+const hbs = require('express-handlebars');
+
 const app = express();
 
-app.get('/', function(req, res) {
-    res.send('Undergoing server maintenance - Be back soon!')
+app.engine('hbs', hbs({extname: 'hbs'}));
+app.set('view engine', 'hbs');
+
+app.use(express.static(__dirname + '/public/'));
+
+app.get('/', (req, res) => {
+    res.status(200).render('home', {
+        title: 'Happy Tails To You Grooming'
+    });
 });
 
 app.listen(3000, function() {
